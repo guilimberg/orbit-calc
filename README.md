@@ -8,4 +8,5 @@ The standard model potential I adopt is [McMillan 2017](https://academic.oup.com
 If you have any questions, get in contact with me: guilherme.limberg [at] usp.br.
 
 **UPDATE Sep 2024**
+
 Unfortunately, this requires running older versions of some packages. I will eventually update the code to run with contemporary Python package versions. For now, I was able to run it with Astropy v5.3.4, NumPy v1.23.4, and Scipy v1.11.1. 
